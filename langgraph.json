@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "writer": "./langgraph_app/writer.py:graph"
+  },
+  "env": ".env"
+}

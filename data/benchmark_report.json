@@ -1,0 +1,11 @@
+{
+  "book_id": "7512268698271370302",
+  "phase0_sec": 0.0,
+  "phase1_sec": 277.95,
+  "phase1_per_chapter_sec": [
+    138.97
+  ],
+  "chapters_done": 2,
+  "success": true,
+  "error": null
+}
