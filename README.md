@@ -138,7 +138,8 @@ python tests/run_full_test.py --phase 1
 ├── backend/             # 可选：仿写流水线、数据库等
 └── tests/
 ```
-
+##
+生成的初次样本为example.txt
 ## 许可证
 
 按项目仓库约定使用。
